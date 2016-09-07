@@ -1,0 +1,132 @@
+title VIRUS CONTAMINATION
+set v1=1
+set d=1
+title 0%% VIRUS CONTAMINATION COMPLETE
+color a
+echo off
+cls
+
+echo INICIANDO PROGRAMA 1/5
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo INICIANDO PROGRAMA 2/5
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo INICIANDO PROGRAMA 3/5
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo INICIANDO PROGRAMA 4/5
+ping 192.0.2.2 -n 1 -w 100 > nul
+echo INICIANDO PROGRAMA 5/5
+ping 192.0.2.2 -n 1 -w 30 > nul
+echo         PROGRAMA INCIALIZADO COM SUCESSO!
+ping 192.0.2.2 -n 1 -w 50 > nul
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+
+
+
+
+:a
+echo| set /p= GERANDO CONTAS DE BANCOS & ping 192.0.2.2 -n 1 -w 60 > nul & echo| set /p= . & ping 192.0.2.2 -n 1 -w 60 > nul & echo| set /p= . & ping 192.0.2.2 -n 1 -w 60 > nul & echo .
+echo (
+echo %random%		%random%	%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo 		%random%			%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo 	%random%			%random%	%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo 			%random%	%random%	
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo %random%	%random%	%random%	%random%	%random%%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo 					%random%	%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo %random%			%random%		%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo 		%random%	%random%%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo %random%%random%%random% %random%				%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo %random%		%random%	%random%	%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo  %random%		%random%%random%		%random%
+ping 192.0.2.2 -n 1 -w 60 > nul
+echo  %random%%random%%random%%random%%random%%random%				%random%
+echo  %random%%random%%random%				%random%	%random%
+echo  %random%			%random%					%random%
+echo .
+ping 192.0.2.2 -n 1 -w 500 > nul
+
+
+goto b
+
+:b
+echo .
+echo|set /p= OBTENDO DADOS & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo !
+ping 192.0.2.2 -n 1 -w 300 > nul
+echo|set /p= SINCRONIZANDO DADOS & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo|set /p= - & ping 192.0.2.2 -n 1 -w 30 > nul & echo !
+ping 192.0.2.2 -n 1 -w 300 > nul
+echo| set /p= PREPARANDO TRANSFERENCIA & ping 192.0.2.2 -n 1 -w 30 > nul & echo| set /p= . & ping 192.0.2.2 -n 1 -w 60 > nul & echo| set /p= . & ping 192.0.2.2 -n 1 -w 60 > nul & echo| set /p= . & ping 192.0.2.2 -n 1 -w 60 > nul
+ping 192.0.2.2 -n 1 -w 300 > nul
+echo .
+ping 192.0.2.2 -n 1 -w 700 > nul
+
+goto c
+
+:c
+echo .
+set <NUL /p=Current time: & time /t
+
+
+
+echo TRANFERINDO DINHEIRO
+ping 192.0.2.2 -n 1 -w 1000 > nul
+echo TRANFERINDO DINHEIRO.
+ping 192.0.2.2 -n 1 -w 1000 > nul
+echo TRANFERINDO DINHEIRO..
+ping 192.0.2.2 -n 1 -w 1000 > nul
+echo TRANFERINDO DINHEIRO...
+ping 192.0.2.2 -n 1 -w 1000 > nul
+
+echo                                 SUCESSO!
+ping 192.0.2.2 -n 1 -w 1000 > nul
+
+set <NUL /p=Current time: & time /t
+
+echo ________________________________________________________________________________
+ping 192.0.2.2 -n 1 -w 1000 > nul
+
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+echo .
+
+goto d
+
+:d
+
+set /a v2=%v1%+%d%
+set v1=%v2%
+title %v2%%% HACK COMPLETE
+
+
+goto a
+
